@@ -4,3 +4,5 @@ HTML Error page 404 | copy paste and free for everyone!
 Just for fun a multi-use html page to make an awesome 404
 
 Free for anyone! Have fun
+
+DEMO @ https://jsfiddle.net/G0DSP33D/y782cxfj/1/
